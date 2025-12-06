@@ -10,8 +10,8 @@
     "scripts/tab-title.js"
   ],
   "url": "https://github.com/atlon04/tab-title-module/",
-  "manifest": "https://github.com/atlon04/tab-title-module/module.json",
-  "download": "https://github.com/atlon04/tab-title-module/module.zip",
+  "manifest": "https://github.com/atlon04/tab-title-module/blob/main/module.json",
+  "download": "https://github.com/atlon04/tab-title-module/blob/main/module.zip",
   "readme": "README.md"
 
 }
