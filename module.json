@@ -1,0 +1,17 @@
+{
+  "name": "tab-title-module",
+  "title": "Tab Title Updater",
+  "description": "<p>Automatically updates the browser tab title to match the world and active scene.</p>",
+  "version": "1.1.0",
+  "author": "Atlon04",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "13",
+  "scripts": [
+    "scripts/tab-title.js"
+  ],
+  "url": "https://github.com/atlon04/tab-title-module/",
+  "manifest": "https://github.com/atlon04/tab-title-module/module.json",
+  "download": "https://github.com/atlon04/tab-title-module/module.zip",
+  "readme": "README.md"
+
+}
